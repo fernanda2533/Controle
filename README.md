@@ -1,3 +1,8 @@
+## Repositório Estrutura de Controle
+Repositório com fins educacionais, ao qual irei disponibilizar desafios e exemplos da aplicabilidade das estruturas de controle de Java
+
+Pra cima Devs:)
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
