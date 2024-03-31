@@ -6,7 +6,7 @@ public class If {
         System.out.println("Informe a média: ");
         double media = entrada.nextDouble(); 
         /*Utilização de estrutura de controle - if
-         * Obss: o "if" retorna verdadeiro ou falso
+         * Obs: o "if" retorna verdadeiro ou falso
          * ou seja, se a condição for atendida, o bloco associado a condição
          * é executado. Entretanto, se a condição nao for atendida, não executa nada
          */

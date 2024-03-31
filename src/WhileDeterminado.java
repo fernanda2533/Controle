@@ -1,7 +1,7 @@
 public class WhileDeterminado {
     public static void main(String[] args) { 
-        /*Quando quisermos que algo se repita um determinado
-         * número de vezes, utilizamos estruturas de repetição
+        /*Quando quisermos que algo se repita 
+        utilizamos estruturas de repetição
          * ou loops, como o "while". */ 
         
          /* Primeiro criamos uma variavel para

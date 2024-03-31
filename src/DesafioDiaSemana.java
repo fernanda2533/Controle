@@ -3,6 +3,7 @@ import javax.swing.JOptionPane;
 public class DesafioDiaSemana { 
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in); 
+        
         /*Pede ao usuário qual o dia da semana */
         String diaDaSemana = JOptionPane.showInputDialog("Digite o dia da semana: "); 
 
